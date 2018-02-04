@@ -10,6 +10,7 @@ import profile
 import client
 import wikipedia
 import requests
+from gtts import gTTS
 from CYBERTK.lib.curve.ttypes import *
 from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re
